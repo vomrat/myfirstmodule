@@ -1,4 +1,3 @@
 # coding=utf-8
 
-def joke():
-    return 'jokejokejoke'
+from .text import joke
